@@ -18,7 +18,9 @@ If you know anyway to increase the functionality of this program, like make an o
 
 # NB
 I modified Microsoft's tutorial to create this program see [tutorial here](https://docs.microsoft.com/en-us/quantum/tutorials/quantum-random-number-generator?tabs=tabid-python)
+
 Always use Microsoft python as your default language server extension, while you run this code to prevent issues
+
 Use conda as your default python interpreter
 
 # What will happen if the procedures listed above are not followed? the case of the red button
