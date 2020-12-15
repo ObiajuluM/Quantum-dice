@@ -11,7 +11,10 @@ How to run the quantum dice:
     ```conda activate qsharp-env```
     
 Run ```python -c "import qsharp"``` from the same terminal to verify your installation and populate your local package cache with all required QDK components.
+
 Download the Qdice folder, copy and paste its contents into your environment and run ```python dice.py``` in your terminal
+
+If you know anyway to increase the functionality of this program, like make an option for user input and for the quantum computer to simulate multipe inputs, i'd be honored to see it. thanks.
 
 # NB
 I modified Microsoft's tutorial to create this program see [tutorial here](https://docs.microsoft.com/en-us/quantum/tutorials/quantum-random-number-generator?tabs=tabid-python)
