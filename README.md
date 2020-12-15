@@ -40,6 +40,6 @@ Use conda as your default python interpreter
 
 • Sentient mathematical formulae which argue that the only way to really be safe from evil twins is to push the red button, no matter how compelling their evidence.
 
-    Culled from [Quantum_Shorts](https://shorts.quantumlah.org/)
+   Culled from [Quantum_Shorts](https://shorts.quantumlah.org/)
     
  Remember your device/pc now acts as a makeshift quantum coumputer so play nice!!!
