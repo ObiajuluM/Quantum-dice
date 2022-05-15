@@ -17,7 +17,6 @@ Download the Qdice folder, copy and paste its contents into your environment and
 If you know anyway to increase the functionality of this program, like make an option for user input and for the quantum computer to simulate multipe inputs, i'd be honored to see it. thanks.
 
 # NB
-I modified Microsoft's tutorial to create this program see [tutorial here](https://docs.microsoft.com/en-us/quantum/tutorials/quantum-random-number-generator?tabs=tabid-python)
 
 Always use Microsoft python as your default language server extension, while you run this code to prevent issues
 
